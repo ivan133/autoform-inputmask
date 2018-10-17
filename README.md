@@ -5,7 +5,7 @@
 ```js
 meteor add theara:inputmask
 
-meteor add theara:autoform-inputmask
+meteor add ivan133:autoform-inputmask
 ```
 ### Usage
 
